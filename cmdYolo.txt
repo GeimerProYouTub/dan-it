@@ -1,0 +1,1 @@
+yolo train model="C:\Users\kurisok\Desktop\IT\python\albion\АФК рыбалка\AI Fishing\AI\yolo11ssr.pt" data="C:\Users\kurisok\Desktop\IT\python\albion\АФК рыбалка\AI Fishing\AI\data.yaml" epochs=30 imgsz=1280 batch=8
